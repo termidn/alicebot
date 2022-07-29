@@ -433,7 +433,7 @@ CPU: {cpu}% | RAM: {mem}%
 Disk: {total} | Free: {free}
 Used: {used} [{disk}%]
 
-Made with ❤️ by Dawn
+Made with ❤️ by Terminator
 """
     return stats
 
